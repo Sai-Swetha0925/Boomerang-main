@@ -29,7 +29,8 @@ This is the Sign In page where the user can enter their username and password.
 
 This is the Sign Up page where the user can sign up for the website. 
 
-![WhatsApp Image 2021-12-25 at 8 51 47 PM](https://user-images.githubusercontent.com/89047287/147393345-6752077d-49d5-4f5b-bf88-bf5b16a76719.jpeg)
+![image](https://github.com/Sai-Swetha0925/Boomerang-main/assets/162849433/4f7f021e-e28d-4aa4-be27-5c26be428892)
+
 
 User Profile:
 ![image](https://github.com/Sai-Swetha0925/Boomerang-main/assets/162849433/6e106604-aa04-4e08-bdda-7961783b59b9)
